@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @gravitygo
 - 🏖 Living in: `Pasay, Philippines` 
 - 🏹 I am a college student at `De La Salle University` and trying to persue my passion for coding and building websites.
-- 🌱 I’m currently learning: `JavaScript`
+- 🌱 I’m currently learning: `MongoDB`
 ## Contacts
 📫 How to reach me:
 - Email: `chyle.andrei.lee@gmail.com`
