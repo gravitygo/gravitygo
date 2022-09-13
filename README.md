@@ -7,7 +7,7 @@
 ## Contacts
 📫 How to reach me:
 - Email: `chyle.andrei.lee@gmail.com`
-- Discord: `MilCCat#8885`
+- Discord: `The Wok#0001`
 ## Github Stats
 ![GravityGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gravitygo&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravitygo&theme=radical)
