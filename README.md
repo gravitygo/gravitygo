@@ -13,7 +13,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gravitygo&theme=radical)
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=gravitygo&theme=radical)](https://github.com/gravitygo/github-profile-trophy)
-![Snake animation](https://github.com/gravitygo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gravitygo/gravitygo/github-contribution-grid-snake.svg)
 <!---
 gravitygo/gravitygo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
