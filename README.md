@@ -2,7 +2,7 @@
 ## About Me
 - 👋 Hi, I’m @gravitygo
 - 🏖 Living in: `Pasay, Philippines` 
-- 🏹 I am a college student at `De La Salle University` and trying to persue my passion for coding and building websites.
+- 🏹 I am a college student at `De La Salle University` and trying to pursue my passion for coding and building websites.
 - 🌱 I’m currently learning: `Numpy and Pandas for Data Science`
 ## Contacts
 📫 How to reach me:
