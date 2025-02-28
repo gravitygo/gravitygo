@@ -19,6 +19,7 @@
     </td>
   </tr>
 </table>
+
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=gravitygo&theme=radical)](https://github.com/gravitygo/github-profile-trophy)
 ![Snake animation](https://github.com/gravitygo/gravitygo/blob/main/github-contribution-grid-snake.svg)
