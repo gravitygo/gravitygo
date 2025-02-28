@@ -10,9 +10,9 @@
 - Discord: `Shish#3636`
 ## Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gravitygo&show_icons=true&theme=radical" alt="GravityGo's GitHub stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravitygo&theme=radical" alt="Top Langs" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=gravitygo&show_icons=true&theme=radical" alt="GravityGo's GitHub stats" />
 </p>
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=gravitygo&theme=radical)](https://github.com/gravitygo/github-profile-trophy)
