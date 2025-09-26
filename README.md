@@ -2,7 +2,7 @@
 ## About Me
 - 👋 Hi, I’m @gravitygo
 - 🏖 Living in: `Pasay, Philippines` 
-- 🏹 I work at `xFusion` and doing my passion for coding and building websites.
+- 🏹 I work at `Emerson` and doing my passion for coding and building websites.
 - 🌱 I’m currently learning: `Numpy and Pandas for Data Science`
 ## Contacts
 📫 How to reach me:
